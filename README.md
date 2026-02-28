@@ -12,6 +12,6 @@ DeadCurrent is a high-difficulty survival modpack where mobs dominate both caves
 
 - [Overview](docs/overview.md)
 - [Core Mechanics](docs/core-mechanics.md)
-- [Major Mods](docs/major-mods.md)
+- [Mods](docs/modslist.md)
+- [System Requirements](docs/requirements.md)
 - [Boss & Endgame](docs/endgame.md)
-- [Requirements](docs/requirements.md)
