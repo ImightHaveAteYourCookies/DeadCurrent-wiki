@@ -15,3 +15,4 @@ DeadCurrent is a high-difficulty survival modpack where mobs dominate both caves
 - [Mods](docs/mods.md)
 - [System Requirements](docs/requirements.md)
 - [Boss & Endgame](docs/endgame.md)
+- [Download](https://modrinth.com/modpack/dead-current)
