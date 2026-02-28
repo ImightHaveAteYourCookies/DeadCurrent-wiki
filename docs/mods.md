@@ -34,11 +34,13 @@
 | BotanyTrees Forge 1.20.1 9.0.20 | 9.0.20 | [Modrinth](https://modrinth.com/mod/mvs7RoIWDarkhax) |  |
 | BrandonsCore 1.20.1 3.2.1.302 universal | 3.2.1.302 | [Modrinth](https://modrinth.com/mod/iFDWVIFVbrandon3055) |  |
 | c to gun 2.3.0 | 2.3.0 | [Modrinth](https://modrinth.com/mod/NkWAhtTTnat_68) |  |
+| cadmus forge 1.20.1 1.0.8 | 1.0.8 | [Modrinth](https://modrinth.com/mod/fEWKxVzhAlex) | Nijjar, ThatGravyBoat |
 | caelus forge 3.2.0+1.20.1 | 3.2.0+1.20.1 | [CurseForge](https://www.curseforge.com/projects/308989C4) |  |
 | carryon forge 1.20.1 2.1.2.7 | 2.1.2.7 | [Modrinth](https://modrinth.com/mod/joEfVgknTschipp,) | Purplicious_Cow, cy4n |
 | cave dweller 1.20.1 1.7.0 | 1.7.0 | [Modrinth](https://modrinth.com/mod/70pj2OChCadentem) |  |
 | Chargers 1.20.1 6.1.0.1 | 6.1.0.1 | [CurseForge](https://www.curseforge.com/projects/290433Gory_Moon) |  |
 | chipped forge 1.20.1 3.0.7 | 3.0.7 | [Modrinth](https://modrinth.com/mod/BAscRYKmAlex) | Nijjar, Grimbop, Kekie6, ThatGravyBoat |
+| chunkloaders 1.2.9 forge mc1.20.1 | 1.2.9 | [Modrinth](https://modrinth.com/mod/t1VgucWoSuperMartijn642) |  |
 | citadel 2.6.3 1.20.1 | 2.6.3 | [Modrinth](https://modrinth.com/mod/jJfV67b1Alexthe666) |  |
 | cloth config 11.1.136 forge | 11.1.136 | [Modrinth](https://modrinth.com/mod/9s6osm5gshedaniel) |  |
 | Clumps forge 1.20.1 12.0.0.4 | 12.0.0.4 | [Modrinth](https://modrinth.com/mod/Wnxd13zPJaredlll08) |  |
@@ -130,10 +132,6 @@
 | FluxNetworks 1.20.1 7.2.1.15 | 7.2.1.15 | [CurseForge](https://www.curseforge.com/projects/248020Sonar) | Sonic, BloCamLimb |
 | ForgeEndertech 1.20.1 11.1.10.0 build.2048 | 11.1.10.0 | [CurseForge](https://www.curseforge.com/projects/244844EnderLanky) |  |
 | FramedBlocks 9.4.3 | 9.4.3 | [Modrinth](https://modrinth.com/mod/wbgfS34jXFactHD) |  |
-| ftb chunks forge 2001.3.6 | 2001.3.6 | [CurseForge](https://www.curseforge.com/projects/314906FTB) | Team |
-| ftb library forge 2001.2.12 | 2001.2.12 | [CurseForge](https://www.curseforge.com/projects/404465FTB) | Team |
-| ftb teams forge 2001.3.2 | 2001.3.2 | [CurseForge](https://www.curseforge.com/projects/404468FTB) | Team |
-| ftbbackups2 forge 1.20 1.0.23 | 1.0.23 | [CurseForge](https://www.curseforge.com/projects/622737CreeperHost) |  |
 | fusion 1.2.12 forge mc1.20.1 | 1.2.12 | [Modrinth](https://modrinth.com/mod/p19vrgc2SuperMartijn642) |  |
 | geckolib forge 1.20.1 4.8.3 | 4.8.3 | [Modrinth](https://modrinth.com/mod/8BmcQJ2HGecko,) | Eliot, AzureDoom, DerToaster, Tslat, Witixin |
 | generatorgalore 1.20.1 1.2.5 | 1.20.1-1.2.5 | [Modrinth](https://modrinth.com/mod/blEO0qtoLobsterJonn) |  |
@@ -191,7 +189,6 @@
 | melody forge 1.0.3 MC 1.20.1 1.20.4 | 1.0.2 | [Modrinth](https://modrinth.com/mod/CVT4pFB2Keksuccino) |  |
 | memoryleakfix forge 1.17+ 1.1.5 | 1.1.5 | [Modrinth](https://modrinth.com/mod/NRjRiSSDFX) | - PR0CESS |
 | miningspeedtooltips forge 1.0.0 1.20.1 | 1.0.0 | [Modrinth](https://modrinth.com/mod/aMctJ87uToni) |  |
-| mob grinding utils 1.20.1 1.1.0 | 1.20.1-1.1.0 | [CurseForge](https://www.curseforge.com/projects/254241vadis365,) | flanks255 |
 | modernfix forge 5.26.2+mc1.20.1 | 5.26.2+mc1.20.1 | [Modrinth](https://modrinth.com/mod/nmDcB62aembeddedt) |  |
 | molten metals 1.20.1 0.1.4 forge | 1.20.1-0.1.4 | [Modrinth](https://modrinth.com/mod/5ZuwMbpkOrdana,) | Kayla_the_bee |
 | molten vents 1.20.1 2.0.9 | 2.0.9 | [Modrinth](https://modrinth.com/mod/uuVy6k1sApothic0n) |  |
