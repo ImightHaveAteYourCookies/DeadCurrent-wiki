@@ -54,8 +54,6 @@ DeadCurrent includes:
 - Memory Leak Fix
 - spark (profiling)
 
-These improve stability but do not replace proper RAM allocation.
-
 ---
 
 ## Important Notes
