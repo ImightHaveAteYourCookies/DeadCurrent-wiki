@@ -15,8 +15,7 @@ Early-game exploration is intentionally punishing. Survival depends on preparati
 
 Progress through industrial technology to defeat the Wither Storm and permanently reduce global mob difficulty.
 
-## Lore
-# Lore Overview: The Catalyst Collapse
+# Lore Overview:
 
 ### The Incident
 It began at the **Aethel-Gard Research Facility**. A breakthrough in "Alchemical Fusion" went catastrophically wrong, leading to a global atmospheric leak. This wasn't just a gas; it was a mutagenic catalyst that rewrote the laws of biology and physics.
