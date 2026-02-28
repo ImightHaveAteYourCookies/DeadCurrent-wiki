@@ -1,0 +1,301 @@
+- 3d\-Skin\-Layers
+- AE Additions
+- AE Omni Cells
+- AE2WTLib
+- AdditionalBanners
+- Advanced Finders
+- Advanced Generators
+- Alex's Mobs
+- Almost Unify Everything
+- AlmostUnified
+- AppleSkin
+- Applied Ammo Box
+- Applied Energistics 2
+- Architectury
+- Armor Statues
+- Ash API
+- Athena
+- Atlas Lib
+- BCLib
+- Balm
+- Banner Flags
+- BdLib
+- Bedspreads
+- Better End
+- Better ModList
+- BetterChat
+- BetterF3
+- Biomes O' Plenty
+- Bookshelf
+- Born in Chaos 
+- BornInConfiguration
+- BotanyPots
+- BotanyTrees
+- Brandon's Core
+- Caelus API
+- Carry On
+- Chargers
+- Chipped
+- Citadel
+- Cloth Config v10 API
+- Clumps
+- CoFH Core
+- Coals to Gunpowder
+- CodeChicken Lib
+- Collective
+- Comforts
+- Configuration
+- Configured
+- Controlling
+- Cool Rain
+- CoroUtil
+- Cosmetics
+- Cracker's Wither Storm Mod
+- CraftingTweaks
+- CraterLib
+- CreaTaCZ
+- Create
+- Create Big Cannons
+- Create Diesel Generators
+- Create Encased
+- Create Fluid
+- Create Goggles
+- Create Liquid Fuel
+- Create Ore Excavation
+- Create Sifter
+- Create ore excavation\+
+- Create: Connected
+- Create: Copycats\+
+- Create: Enlightend
+- Create: Extended Storage
+- Create: High Pressure
+- Create: New Age
+- Create: Renewable Netherite
+- Create: Stones
+- Create: Structures
+- Create: TacZ Automation
+- Create: The Factory Must Grow
+- CreativeCore
+- Creosote Patch
+- Cucumber Library
+- Curios API
+- Curios for Ammo Box
+- Cynosure
+- Daffa's Arsenal
+- Decorative
+- Decorative Blocks
+- Default World Type
+- Delightful
+- Delightful Burgers
+- Delightful Creators
+- Delightful Sandwiches
+- Difficulty Lock
+- Dis\-Enchanting Table
+- Do a Barrel Roll
+- Domum Ornamentum
+- Drawers Tooltip
+- Dynamic FPS
+- Easy Anvils
+- Easy Villagers
+- Effortless Building
+- Elevator Mod
+- Elytra Durability Indicator
+- Elytra Slot
+- Elytra Trims
+- Embeddium
+- Enchanted Golden Apple Addition
+- Enchanting Infuser
+- EnchantmentDescriptions
+- Ender Dragon Fight Remastered
+- EnderStorage
+- EnderTanks
+- Enhanced AI
+- Enhanced Mob Spawners
+- EnhancedVisuals
+- Enlightend
+- Entity Model Features
+- Entity Texture Features
+- EntityCulling
+- EtSTLib
+- Every Compat
+- Ex Deorum
+- Extra Disks
+- FTB Backups 2
+- FTB Chunks
+- FTB Library
+- FTB Teams
+- FancyMenu
+- Farmer's Delight
+- Ferrite Core
+- Figura
+- FlightAssistant
+- Flux Networks
+- ForgeEndertech
+- FramedBlocks
+- Frontline Combat Pack
+- Fusion
+- GeckoLib 4
+- Generator Galore
+- Glassential Renewed
+- GlitchCore
+- Gucci & Vuitton Attachments
+- GuideME
+- HammerLib
+- ImmediatelyFast
+- Immersive Balance \+ Ore Doubling
+- Immersive Engineering
+- Immersive Furniture
+- Immersive Petroleum
+- Immersive Technology
+- ImmersiveFixes
+- Industrial Foregoing
+- IndustrialDeco
+- InsaneLib
+- Iron Bookshelves
+- Iron Chests: Restocked
+- Iron Jetpacks
+- Item Zoomer
+- Jade
+- JasonConfig
+- Json Things
+- Just Enough Immersive Multiblocks
+- Just Enough Items
+- Just Enough Professions \(JEP\)
+- Just Enough Resources
+- Just Zoom
+- Konkrete
+- Kotlin for Forge
+- KubeJS
+- KubeJS Addditions \(Forge\)
+- KubeJS Create
+- KubeJS Diesel Generators
+- KubeJS Mekanism
+- KubeJS Offline \(Forge\)
+- KubeJS TFMG
+- KubeJS Thermal
+- Large Ore Deposits
+- LesRaisins Tactical Equipments
+- LionfishAPI
+- Load My F\*\*\*ing Tags
+- MCEF \(Minecraft Chromium Embedded Framework\)
+- MEGA Cells
+- MZRK SBW remoove recipe gun
+- Mantle
+- McJtyLib
+- Mekanism
+- Mekanism Pipez Fix
+- Mekanism: Additions
+- Mekanism: Generators
+- Mekanism: Neutron Activator
+- Mekanism: Tools
+- Melody
+- Memory Leak Fix
+- Mineblock's Repeated Utilities
+- Mining Speed Tooltips
+- Mob Grinding Utils
+- ModernFix
+- Molten Metals
+- Molten Vents
+- MonoLib
+- Moonlight Library
+- More Curios Slots
+- Mouse Tweaks
+- Necronomicon
+- No Chat Reports
+- No Telemetry
+- NoMindlessShooting
+- NotEnoughAnimations
+- Nuclear Trash can
+- Nyf's Banner Patterns
+- Oculus
+- Open Parties and Claims
+- OreExcavation
+- Overflowing Bars
+- PacketFixer
+- Panoramica
+- Pipez
+- PlayerRevive
+- PlayerRevive tacz/sbw compitability
+- PolyLib
+- Powah
+- Pretty Rain
+- Puzzles Lib
+- Quark
+- R\.A\.G\.E
+- Rechiseled
+- Rechiseled: AE2
+- Rechiseled: Chipped
+- Refined Storage
+- Remove Reloading Screen
+- Resource Pack Overrides
+- Resourceful Lib
+- Rhino
+- Ritchie's Projectile Library
+- Scalable Cat's Force
+- Scannable
+- Seamless
+- Searchables
+- Security\+
+- SecurityCraft
+- ShetiPhian\-Core
+- ShulkerBoxTooltip
+- Simple Storage Network
+- Sodium Dynamic Lights
+- Sodium Options API
+- Solar Flux Reborn
+- Sound Physics Perfected
+- Source Block
+- SpiffyHUD
+- Starter Kit
+- Storage Drawers
+- SuperMartijn642's Config Library
+- SuperMartijn642's Core Lib
+- Superb Warfare
+- TACZ Turrets
+- TACZ\-addon
+- TFMG: Virtual Oil Deposit
+- TFMGCastingFix
+- TaCZ Tweaks
+- TaCZ x Guns Lights Addon
+- TaCZ:Labs
+- TerraBlender
+- The Hordes
+- Thermal Cultivation
+- Thermal Dynamics
+- Thermal Expansion
+- Thermal Foundation
+- Thermal Innovation
+- Thermal Integration
+- Timeless & Classics Guns: Zero
+- Tinkers' Construct
+- Tinkers' Delight
+- Tinkers' Levelling Addon
+- Titanium
+- Torchmaster
+- Traveler's Backpack
+- TxniLib
+- UI Lib
+- UI Library Mod
+- Vision Goggles
+- Visual Workbench
+- Waystones
+- Waystones Teleport Pets
+- Welcome Screen
+- Wireless Chargers
+- WunderLib
+- Xaero's Minimap
+- Xaero's World Map
+- Yet Another Furniture
+- YetAnotherConfigLib
+- Zeros Item Renamer
+- Zeta
+- \[SBW\] Colorized\!
+- \[SBW\] Wrecked\!
+- ashvehicle
+- cataclysm
+- cave\_dweller
+- flib
+- mcef\-cache
+- mcef\-libraries
+- mega sponge
+- spark
