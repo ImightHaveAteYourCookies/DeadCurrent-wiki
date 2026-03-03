@@ -15,5 +15,3 @@ DeadCurrent is built around automation progression:
 - Automated mining
 - Advanced ore processing
 - Scalable energy production
-
-Technology is required, not optional.
