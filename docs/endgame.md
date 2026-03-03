@@ -4,15 +4,6 @@
 
 The Wither Storm is the final progression milestone of DeadCurrent.
 
-### Preparation Requirements
-
-- High-tier power infrastructure
-- Fully automated resource systems
-- Advanced armor and weaponry
-- Dedicated battle arena
-
----
-
 ## World Stabilization Effect
 
 After defeating the Wither Storm:
