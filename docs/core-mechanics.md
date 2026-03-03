@@ -2,10 +2,7 @@
 
 ## Hostile Environment
 
-Caves are significantly more dangerous than the surface.  
-Nighttime dramatically increases risk.
-
-Manual strip mining is strongly discouraged due to mob scaling.
+Mobs are significantly more dangerous
 
 ## Automation-First Design
 
