@@ -1,10 +1,9 @@
 | Mod Name | Version | Download Links | Author(s) |
 | :--- | :--- | :--- | :--- |
-| [1.20.1] SecurityCraft v1.10.1 | 1.10.1 | [Modrinth](https://modrinth.com/mod/v8jzRtAtGeforce132,) | bl4ckscor3, Redstone_Dubstep |
 | AdditionalBanners Forge 1.20.1 14.0.5 | 14.0.5 | [Modrinth](https://modrinth.com/mod/AVPTFuxCDarkhax) |  |
 | AdFinders 1.20.1 9.1.13.1 build.1919 | 9.1.13.1 | [CurseForge](https://www.curseforge.com/projects/260925EnderLanky) |  |
 | AdLods 1.20.1 8.1.9.0 build.2084 | 8.1.9.0 | [CurseForge](https://www.curseforge.com/projects/318833EnderLanky) |  |
-| ae2omnicells 1.20.1 forge 1.1.0 | 1.20.1-forge-1.1.0 | [Modrinth](https://modrinth.com/mod/RYE1pYyrFrostbite(Code),) | MHanHanBing(Art) |
+| ae2omnicells 1.20.1 forge 1.1.1 | 1.1.1 | [Modrinth](https://modrinth.com/mod/RYE1pYyrFrostbite(Code),) | MHanHanBing(Art) |
 | ae2wtlib 15.3.3 forge | 15.3.3-forge | [Modrinth](https://modrinth.com/mod/pNabrMMwmari_023,) | Ridanisaurus, DomamaN202 |
 | AEAdditions 1.20.1 5.1.1 | 5.1.1 | [Modrinth](https://modrinth.com/mod/BaiPFaoTMasterYodA) |  |
 | alexsmobs 1.22.9 | 1.22.9 | [Modrinth](https://modrinth.com/mod/2cMuAZApAlexthe668,) | Carro1001, Paint_Ninja |
@@ -20,12 +19,12 @@
 | Atlas Lib 1.20.1 1.1.12 | 1.1.12 | [Modrinth](https://modrinth.com/mod/G6VHtQr4Smileycorp) |  |
 | balm forge 1.20.1 7.3.38 all | 7.3.38 | [Modrinth](https://modrinth.com/mod/MBAkmtvlBlayTheNinth) |  |
 | banner flags 2.3 | 2.3 | [Modrinth](https://modrinth.com/mod/cCStmVINGurkis) |  |
-| BCLib 20.0.6 | 20.0.6 | [Modrinth](https://modrinth.com/mod/obMZk452Quiqueck,) | paulevs, Bulldog83 |
+| BCLib 20.0.7 | 20.0.7 | [Modrinth](https://modrinth.com/mod/obMZk452Quiqueck,) | paulevs, Bulldog83 |
 | bdlib 1.27.0.8 mc1.20.1 | 1.27.0.8 | [Modrinth](https://modrinth.com/mod/80j65Nbwbdew) |  |
 | bedspreads forge 6.3.0+1.20.1 | 6.3.0+1.20.1 | [Modrinth](https://modrinth.com/mod/vNNL5mc7Illusive) | Soulworks |
 | Better Modlist 0.1.15 all | 0.1.15 | [Modrinth](https://modrinth.com/mod/sbpqhzIGfoxy,) | Prospector, haykam821, TerraformersMC |
 | betterchat 1.0fix | 1.0fix | [Modrinth](https://modrinth.com/mod/2wx7BDuowzz) |  |
-| BetterEnd 20.0.6 | 20.0.6 | [Modrinth](https://modrinth.com/mod/aSIFLYIcQuiqueck,) | paulevs (original author), Bulldog83, Edos, Yuki, Seaward, Firel |
+| BetterEnd 20.0.7 | 20.0.7 | [Modrinth](https://modrinth.com/mod/aSIFLYIcQuiqueck,) | paulevs (original author), Bulldog83, Edos, Yuki, Seaward, Firel |
 | BetterF3 7.0.2 Forge 1.20.1 | 7.0.2 | [Modrinth](https://modrinth.com/mod/8shC1gFXTreyRuffy) | and cominixo |
 | BiomesOPlenty forge 1.20.1 19.0.0.96 | 19.0.0.96 | [Modrinth](https://modrinth.com/mod/HXF82T3GAdubbz,) | Forstride |
 | blockui 1.20.1 1.0.194 snapshot | 1.20.1-1.0.194-snapshot | [CurseForge](https://www.curseforge.com/projects/522992LDT) | Team |
@@ -55,13 +54,14 @@
 | coolrain 1.20.1 Forge 1.0.3 | 1.0.3 | [CurseForge](https://www.curseforge.com/projects/1346978Leclowndu93150) |  |
 | copycats 3.0.7+mc.1.20.1 forge | 3.0.7+mc.1.20.1-forge | [Modrinth](https://modrinth.com/mod/UT2M39wfLysine,) | Bennyboy1695, Redcat_XVIII |
 | coroutil forge 1.20.1 1.3.7 | 1.20.1-1.3.7 | [Modrinth](https://modrinth.com/mod/rLLJ1OZMCorosus) |  |
-| cosmetics 1.0.0 | 1.0.0 | [Modrinth](https://modrinth.com/mod/vu2MhHQKnullstilles) |  |
+| cosmeticarmorreworked 1.20.1 v1a | 1.20.1-v1a | [CurseForge](https://www.curseforge.com/projects/237307zlainsama) |  |
 | craftingtweaks forge 1.20.1 18.2.8 | 18.2.8 | [Modrinth](https://modrinth.com/mod/DMu0oBKfBlayTheNinth) |  |
 | CraterLib Forge 1.20 3.0.1 | 3.0.1 | [Modrinth](https://modrinth.com/mod/Nn8WasaqHypherionSA,) | Zenith |
 | creatacz 1.0 | 1.0 | [CurseForge](https://www.curseforge.com/projects/1092870shopon) |  |
 | create 1.20.1 6.0.8 | 6.0.8 | [CurseForge](https://www.curseforge.com/projects/328085simibubi) |  |
 | create connected 1.1.13 mc1.20.1 all | 1.1.13-mc1.20.1 | [Modrinth](https://modrinth.com/mod/Vg5TIO6dLysine) |  |
 | Create Encased 1.20.1 1.8 ht2 | 1.8-ht2 | [Modrinth](https://modrinth.com/mod/hSSqdyU1iglee42) |  |
+| create enchantment industry 1.3.3 for create 6.0.6 | 1.3.3-for-create-6.0.6 | [Modrinth](https://modrinth.com/mod/JWGBpFUPMarbleGateKeeper) | & LimonBlaze |
 | create enlightend 1.0.0 forge 1.20.1 | 1.0.0 | [Modrinth](https://modrinth.com/mod/PSQLOzw4robinfrt) |  |
 | create high pressure 1.1.0 | 1.1.0 | [Modrinth](https://modrinth.com/mod/Mn8ziD0cAweeri) |  |
 | create new age 1.1.7f+forge mc1.20.1 | 1.1.7f+mc1.20.1 | [Modrinth](https://modrinth.com/mod/FTeXqI9vAntarctic) | Gardens |
@@ -70,7 +70,7 @@
 | create stones 2.0.0 | 2.0.0 | [Modrinth](https://modrinth.com/mod/KKlx33Ch0xDED) |  |
 | create structures 0.1.1 1.20.1 FORGE | 0.1.1 | [Modrinth](https://modrinth.com/mod/IAnP4np7FusionSwarly) |  |
 | createbigcannons 5.11.2+mc.1.20.1 forge | 5.11.2 | [Modrinth](https://modrinth.com/mod/GWp4jCJjrbasamoyai) |  |
-| createdieselgenerators 1.20.1 1.3.8 | 1.20.1-1.3.8 | [Modrinth](https://modrinth.com/mod/ZM3tt6p1kamień-bot) | AKA George VI AKA Jesz |
+| createdieselgenerators 1.20.1 1.3.9 | 1.20.1-1.3.9 | [Modrinth](https://modrinth.com/mod/ZM3tt6p1George) | VI |
 | createextendedstorage 1.1 | 1.0.0 | [Modrinth](https://modrinth.com/mod/6mazT3NOtrxdent) |  |
 | creategoggles 1.20.1 6.1.0 [FORGE] | 6.1.0 | [Modrinth](https://modrinth.com/mod/L1RT5SJcRobocraft999) |  |
 | createliquidfuel 2.1.1 1.20.1 | 2.1.1-1.20.1 | [Modrinth](https://modrinth.com/mod/sH9tXU9fForsteri) |  |
@@ -84,8 +84,8 @@
 | curios forge 5.14.1+1.20.1 | 5.14.1+1.20.1 | [Modrinth](https://modrinth.com/mod/vvuO3ImHC4) |  |
 | cynosure 0.1.15 forge | 0.1.15 | [Modrinth](https://modrinth.com/mod/4JVfdODBMayaqq) |  |
 | daffas arsenal 3.2.0 | 3.2.0 | [Modrinth](https://modrinth.com/mod/11K9aTv9DaffaTheOne) |  |
-| decorative | 1.0.0 | [Modrinth](https://modrinth.com/mod/3oezNguhHdticket) |  |
 | decorative blocks forge 1.20.1 4.1.3 | 4.1.3 | [Modrinth](https://modrinth.com/mod/t6BIRVZnLilypuree,) | Stohun |
+| decorative | 1.0.0 | [Modrinth](https://modrinth.com/mod/3oezNguhHdticket) |  |
 | DefaultWorldType 1.20.1 4.0.5 | 1.20.1-4.0.5 | [Modrinth](https://modrinth.com/mod/kZvO1mDqMelanX) |  |
 | Delightful 1.20.1 3.7.8 | 3.7.8 | [Modrinth](https://modrinth.com/mod/JtSnhtNJbrnbrd) |  |
 | delightfulburgers 1.20.1 | 1.20.1 | [Modrinth](https://modrinth.com/mod/AqHNT5iPluhcarti) |  |
@@ -112,13 +112,13 @@
 | EnchantmentDescriptions Forge 1.20.1 17.1.21 | 17.1.21 | [Modrinth](https://modrinth.com/mod/UVtY3ZACDarkhax) |  |
 | EnderStorage 1.20.1 2.11.0.188 universal | 2.11.0.188 | [Modrinth](https://modrinth.com/mod/BbrHg80PChickenBones,) | covers1624 |
 | endertanks forge 1.20.1 1.5 | 1.20.1-1.5 | [Modrinth](https://modrinth.com/mod/zZwEA08DShetiPhian;) | Artwork: Fruzstrated |
-| enhancedai 3.3.6.2 | 3.3.6.2 | [Modrinth](https://modrinth.com/mod/TDdoftI1Insane96MCP) |  |
+| enhancedai 3.3.6.3 | 3.3.6.3 | [Modrinth](https://modrinth.com/mod/TDdoftI1Insane96MCP) |  |
 | EnhancedVisuals FORGE v1.8.2 mc1.20.1 | 1.8.2 | [Modrinth](https://modrinth.com/mod/KjL0jE2wCreativeMD,) | Sonicjumper |
 | enlightend 5.0.14 1.20.1 | 5.0.14 | [Modrinth](https://modrinth.com/mod/SwolYSb8Owner,) | MuffinsQw |
 | entity model features 1.20.1 forge 3.0.12 | 3.0.12 | [Modrinth](https://modrinth.com/mod/4I1XuqiYTraben) |  |
 | entity texture features 1.20.1 forge 7.0.9 | 7.0.9 | [Modrinth](https://modrinth.com/mod/BVzZfTc1Traben) |  |
 | entityculling forge 1.9.5 mc1.20.1 | 1.9.5 | [Modrinth](https://modrinth.com/mod/NNAgCjsBtr7zw) |  |
-| etstlib 3.0.0 beta.17 | 3.0.0-beta.17 | [Modrinth](https://modrinth.com/mod/H9Ib63lKEtSH_C2H6S) |  |
+| etstlib 3.0.0 beta.18 | 3.0.0-beta.18 | [Modrinth](https://modrinth.com/mod/H9Ib63lKEtSH_C2H6S) |  |
 | everycomp 1.20 2.9.17 forge | 1.20-2.9.17 | [Modrinth](https://modrinth.com/mod/eiktJyw1MehVahdJukaar) |  |
 | exdeorum 1.49 | 1.49 | [Modrinth](https://modrinth.com/mod/WP0FLyzvTheDarkColour) |  |
 | ExtraDisks 1.20.1 3.0.3 | 1.20.1-3.0.3 | [Modrinth](https://modrinth.com/mod/Tlo2tahXMelanX) |  |
@@ -127,8 +127,8 @@
 | fcp 1.0.0 | 1.0.0 | [Modrinth](https://modrinth.com/mod/TnzHcrvVMado) |  |
 | ferritecore 6.0.1 forge | 6.0.1 | [Modrinth](https://modrinth.com/mod/uXXizFIsmalte0811) |  |
 | flib 1.20.1 0.0.15 | 0.0.15 | [CurseForge](https://www.curseforge.com/projects/661261Lothrazar) |  |
-| flightassistant forge 3.0.0+mc1.20.1 | 3.0.0 | [CurseForge](https://www.curseforge.com/projects/972881) |  |
-| fluid 1.20 1.2.1 | 1.2.1 | [Modrinth](https://modrinth.com/mod/JlZEVjsFadonis) |  |
+| flightassistant forge 3.0.1+mc1.20.1 | 3.0.1 | [CurseForge](https://www.curseforge.com/projects/972881) |  |
+| fluid 1.20 1.2.2 | 1.2.2 | [Modrinth](https://modrinth.com/mod/JlZEVjsFadonis) |  |
 | FluxNetworks 1.20.1 7.2.1.15 | 7.2.1.15 | [CurseForge](https://www.curseforge.com/projects/248020Sonar) | Sonic, BloCamLimb |
 | ForgeEndertech 1.20.1 11.1.10.0 build.2048 | 11.1.10.0 | [CurseForge](https://www.curseforge.com/projects/244844EnderLanky) |  |
 | FramedBlocks 9.4.3 | 9.4.3 | [Modrinth](https://modrinth.com/mod/wbgfS34jXFactHD) |  |
@@ -177,7 +177,7 @@
 | lrtactical 1.20.1 0.3.0 | 0.3.0 | [Modrinth](https://modrinth.com/mod/AiwNM9O0LesRaisins) | Studio |
 | Mantle 1.20.1 1.11.104 | 1.11.104 | [Modrinth](https://modrinth.com/mod/Cg6Uc79HSlime) | Knights |
 | mcjtylib 1.20 8.0.7 | 1.20-8.0.7 | [Modrinth](https://modrinth.com/mod/1Zu0uTEEMcJty) |  |
-| MCT ImmersiveTechnology 1.20.1 2.0.1 b4919 beta | 2.0.1-b4919-beta | [Modrinth](https://modrinth.com/mod/DvaEUke2tgstyle,) | MagneticPrism |
+| MCT ImmersiveTechnology 1.20.1 2.0.1 b5894 beta | 2.0.1-b5894-beta | [Modrinth](https://modrinth.com/mod/DvaEUke2tgstyle,) | MagneticPrism |
 | mega sponge 1 forge 1.20.1 | 1 | [Modrinth](https://modrinth.com/mod/OeDXWKYFas3t4t0,) | MCreator |
 | megacells forge 2.4.6 1.20.1 | 2.4.6-1.20.1 | [Modrinth](https://modrinth.com/mod/jjuIRIVr90) |  |
 | Mekanism 1.20.1 10.4.16.80 | 10.4.16 | [Modrinth](https://modrinth.com/mod/Ce6I4WUEAidancbrady,) | Thommy101, Thiakil, pupnewfster, dizzyd |
@@ -215,6 +215,7 @@
 | playerrevive compat 1.0.2 12c699b | 1.0.2 | [Modrinth](https://modrinth.com/mod/2ehC7vF4Baechka) |  |
 | PlayerRevive FORGE v2.0.31 mc1.20.1 | 2.0.31 | [Modrinth](https://modrinth.com/mod/ABIMzABMCreativeMD) |  |
 | polylib forge 2000.0.3 build.143 | 2000.0.3-build.143 | [CurseForge](https://www.curseforge.com/projects/576589CreeperHost) |  |
+| polymorph forge 0.49.10+1.20.1 | 0.49.10+1.20.1 | [Modrinth](https://modrinth.com/mod/tagwiZkJIllusive) | Soulworks |
 | Powah 5.0.11 | 5.0.11 | [Modrinth](https://modrinth.com/mod/KZO4S4DOowmii,Technici4n) |  |
 | Pretty Rain 1.20.1 Forge 1.1.3 | 1.1.3 | [Modrinth](https://modrinth.com/mod/IhZuHxklLeclowndu93150,) | PigCart |
 | PuzzlesLib v8.1.33 1.20.1 Forge | 8.1.33 | [Modrinth](https://modrinth.com/mod/QAGBst4MFuzs) |  |
@@ -223,6 +224,7 @@
 | rechiseled 1.2.4 forge mc1.20.1 | 1.2.4 | [Modrinth](https://modrinth.com/mod/B0g2vT6lSuperMartijn642) |  |
 | rechiseled chipped 2.0 1.20.1 | 1.2 | [Modrinth](https://modrinth.com/mod/ryYcxeeAiwolfking) |  |
 | rechiseledae2 forge 1.20 1.20.1 1.1.0 | 1.1.0 | [Modrinth](https://modrinth.com/mod/sDBUwZVYChristofmeg) |  |
+| rechiseledcreate 1.1.0 forge mc1.20 | 1.1.0 | [Modrinth](https://modrinth.com/mod/E6867niZSuperMartijn642) |  |
 | refinedstorage 1.12.4 | 1.12.4 | [Modrinth](https://modrinth.com/mod/KDvYkUg3Refined) | Mods |
 | resourcefullib forge 1.20.1 2.1.29 | 2.1.29 | [Modrinth](https://modrinth.com/mod/G1hIVOrDThatGravyBoat,) | Epic_Oreo |
 | ResourcePackOverrides v8.0.3 1.20.1 Forge | 8.0.3 | [Modrinth](https://modrinth.com/mod/YsFycamtFuzs) |  |
@@ -232,7 +234,6 @@
 | scannable MC1.20.1 forge 1.7.12+18ccb75 | 1.7.12+18ccb75 | [Modrinth](https://modrinth.com/mod/YqFnwJHfSangar) |  |
 | seamless 2.2.2 forge 1.20.1 | 2.2.2 | [Modrinth](https://modrinth.com/mod/rhyHyQkeLarsMans) |  |
 | Searchables forge 1.20.1 1.0.3 | 1.0.3 | [Modrinth](https://modrinth.com/mod/fuuu3xnxJaredlll08) |  |
-| security 1.0.0 forge 1.20.1 | 1.0.0 | [Modrinth](https://modrinth.com/mod/JrEF3IZ6ASUS,) | MCreator |
 | shetiphiancore forge 1.20.1 1.5 | 1.20.1-1.5 | [Modrinth](https://modrinth.com/mod/oX7uP2kSShetiPhian,) | Artwork: Fruzstrated |
 | shulkerboxtooltip forge 4.0.4+1.20.1 | 4.0.4+1.20.1 | [Modrinth](https://modrinth.com/mod/2M01OLQqMisterPeModder) |  |
 | SimpleStorageNetwork 1.20.1 1.12.2 | 1.12.2 | [CurseForge](https://www.curseforge.com/projects/268495Lothrazar,) | MrRiegel |
@@ -240,7 +241,7 @@
 | sodiumdynamiclights forge 1.0.10 1.20.1 | 1.0.9 | [Modrinth](https://modrinth.com/mod/PxQSWIcDtoni,) | LambdAurora |
 | sodiumoptionsapi forge 1.0.10 1.20.1 | 1.0.10 | [Modrinth](https://modrinth.com/mod/Es5v4eyqtoni) |  |
 | SolarFluxReborn 1.20.1 20.1.11 | 20.1.11 | [Modrinth](https://modrinth.com/mod/4QG5lev4Zeitheron) |  |
-| sound physics perfected 1.15.1+1.20.1 forge | 1.15.1 | [Modrinth](https://modrinth.com/mod/KS6Hbu9ZRedLife) |  |
+| sound physics perfected 1.16.2+1.20.1 forge | 1.16.2 | [Modrinth](https://modrinth.com/mod/KS6Hbu9ZRedLife) |  |
 | sourceblock 1.1.0 forge+mc1.20.1 | 1.1.0-forge+mc1.20.1 | [Modrinth](https://modrinth.com/mod/uGHNkiAzdreamCat) |  |
 | spark 1.10.53 forge | 1.10.53 | [Modrinth](https://modrinth.com/mod/l6YH9AlsLuck) |  |
 | spawnermod 1.20.1 1.9.3+Forge | 1.9.3 | [Modrinth](https://modrinth.com/mod/ZF0coYokBranders) |  |
